@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him or whatever
 - ⚡ Fun fact: I love pixel art an voice acting!
-- ![Imgur Image](https://imgur.com/a/SebHyay)
+- ![Imgur Image](https://imgur.com/a/SebHyay.gif)
 
 <!---
 Frafcis/Frafcis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
