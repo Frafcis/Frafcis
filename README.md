@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on anything that catches my eye
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him or whatever
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love pixel art an voice acting!
+- [![App Platorm](https://imgur.com/a/SebHyay)]
 
 <!---
 Frafcis/Frafcis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
